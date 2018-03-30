@@ -5,6 +5,5 @@ CREATE TABLE bears (
   gender	char(1),
   color	text,
   temperament	text,
-  alive	boolean,
-  primary key (id)
+  alive	boolean
 );
